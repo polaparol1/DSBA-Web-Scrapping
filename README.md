@@ -1,5 +1,7 @@
 # How to run scrappers | quick guide 
 ## 1. Beautiful Soup 
+- Install necessary libraries: requests, BeautifulSoup, re, pandas, pandas, time
+- Run the code in Python3 interpreter: python3 `soup.py`
 
 ## 2. Scrapy 
 - download `libristo` scrapy project folder
